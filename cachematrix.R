@@ -5,7 +5,7 @@
 # (such as a matrix, its inverse matrix and a list containing 4 functions) in the makeCacheMatrix() object's environment.
 # The second function cacheSolve uses the returned value from makeCacheMatrix as argument to retrieve
 # the inverse matrix from the cached value stored in makeCacheMatrix() object's environment. If there is no cached value,
-# the inverse matrix is caculated and returned, otherwise the cached value will be returned.
+# the inverse matrix is calculated and returned, otherwise the cached value will be returned.
 #------------------------------------------------------------------------------------------------------------------------
 
 
